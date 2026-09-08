@@ -1,6 +1,6 @@
-## idktomy
+## zakyline
 
-¡Hola! Soy Tomás, un chico uruguayo de 18 años al que le gusta la programación de bots de Discord y diseñar cosas en Photoshop y C4D. Siempre trato de aprender y mejorar en mis proyectos, además de administrar y gestionar servidores de Discord, comunidades y todo lo relacionado con su organización.
+¡Hola! Soy zaky, un chico uruguayo de 19 años al que le gusta la programación de bots de Discord y diseñar cosas en Photoshop y C4D. Siempre trato de aprender y mejorar en mis proyectos, además de administrar y gestionar servidores de Discord, comunidades y todo lo relacionado con su organización.
 
 ## Conocimientos 
 
@@ -10,6 +10,6 @@
 
 ## Contáctame
 
-> [![Twitter Badge](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/idktomy_/)
+> [![Twitter Badge](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/zakyline/)
 > [![Discord Badge](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/454774829162430483)
 

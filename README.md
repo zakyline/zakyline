@@ -4,7 +4,6 @@
 
 ## Conocimientos 
 
-> [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 > [![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)](https://www.adobe.com/la/products/photoshop.html)
 > [![Cinema 4D](https://img.shields.io/badge/Cinema4D-000000?style=for-the-badge&logo=cinema4d&logoColor=white)](https://www.maxon.net/es/cinema-4d)
 

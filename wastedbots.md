@@ -33,4 +33,4 @@ Tienes derecho a solicitar información sobre los datos que Wasted Bots ha recop
 
 Nos reservamos el derecho de modificar estos términos en cualquier momento. Si realizamos cambios, los publicaremos en esta sección. El uso continuo de Wasted Bots después de los cambios implica la aceptación de la nueva política.
 
-Para consultas o más información, puedes contactarme en Twitter: @idktomy_
+Para consultas o más información, puedes contactarme en Twitter: @zakyline
